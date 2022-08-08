@@ -1,9 +1,7 @@
 - 👋 Hola, soy @brianglz
 
-- 👀 Soy un desarrollador de aplicaciones web y un gran admirador de las soluciones de código abierto, actualmente trabajo para drcorporacion.com.
-Uno de mis entornos gráficos favoritos es Tabler el que utilizo para varios proyectos.
-
-- 🌱 Actualmente estoy aprendiendo javascript.
+- 👀 Soy un desarrollador de aplicaciones web y un gran admirador de las soluciones de código abierto, actualmente trabajo para D R Corporación, S.A
+Uno de mis entornos gráficos favoritos es Tabler el cual utilizo para varios proyectos.
 
 - 📫 Puedes contactarte conmigo por correo electrónico: bd.gonzalez7@gmail.com
 
