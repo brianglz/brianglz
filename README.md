@@ -9,5 +9,6 @@ brianglz/brianglz is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
+![imagen](https://user-images.githubusercontent.com/17282045/183334646-f8ffe6c1-8cf0-439c-a604-11c06ddfebc0.png)
 
 Lo que más me motiva como desarrollador es poder ver los efectos de mi trabajo en acción, especialmente si aportan un beneficio directo a los usuarios. Me gusta colaborar con otros para superar desafíos y buscar formas nuevas e interesantes de resolver problemas complejos. Por eso me interesé en el código abierto y espero tener la oportunidad de compartir más de mis proyectos contigo.
