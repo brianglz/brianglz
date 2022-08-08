@@ -11,6 +11,7 @@ Sobre mi
 Uno de mis entornos gráficos favoritos es Tabler el que utilizo para varios proyectos.
 
 🌱 Actualmente estoy aprendiendo javascript.
+
 📫 Puedes contactarte conmigo por correo electrónico: bd.gonzalez7@gmail.com
 
 <!---
