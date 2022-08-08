@@ -1,18 +1,11 @@
-Sobre mi
+- 👋 Hola, soy @brianglz
 
-- 👋 Hi, I’m @brianglz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-👋 Hola, soy @brianglz
-👀 Soy un desarrollador de aplicaciones web y un gran admirador de las soluciones de código abierto, actualmente trabajo para drcorporacion.com.
+- 👀 Soy un desarrollador de aplicaciones web y un gran admirador de las soluciones de código abierto, actualmente trabajo para drcorporacion.com.
 Uno de mis entornos gráficos favoritos es Tabler el que utilizo para varios proyectos.
 
-🌱 Actualmente estoy aprendiendo javascript.
+- 🌱 Actualmente estoy aprendiendo javascript.
 
-📫 Puedes contactarte conmigo por correo electrónico: bd.gonzalez7@gmail.com
+- 📫 Puedes contactarte conmigo por correo electrónico: bd.gonzalez7@gmail.com
 
 <!---
 brianglz/brianglz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
